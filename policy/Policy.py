@@ -1,5 +1,4 @@
 from policyuniverse import expand_policy
-from itertools import chain
 
 
 class Policy:
